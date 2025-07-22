@@ -1,0 +1,7 @@
+.task{
+    display: flex;
+    justify-content: space-evenly; /*for row*/
+    background-color: aqua;
+    align-items: center; /*for column*/
+}
+
